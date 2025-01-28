@@ -1,11 +1,12 @@
 {
     "manifest_version": 3,
     "version": "1.0",
-    "name": "Leads tracker",
+    "name": "Mis propios marcadores",
     "action": {
         "default_popup": "index.html",
         "default_icon": "icon.png"
     },
+    "description": "Guarda tus marcadores favoritos",
     "permissions": [
         "tabs"
     ]
